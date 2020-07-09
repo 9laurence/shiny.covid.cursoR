@@ -1,0 +1,13 @@
+name: analise_covid_dias
+title: analise_covid_dias
+username:
+account: paulolaurence
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2539479
+bundleId: 3372891
+url: https://paulolaurence.shinyapps.io/analise_covid_dias/
+when: 1594316406.86044
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rbuildignore|analises.R|NAMESPACE
